@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Faculty+Glyphic&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-weight: bold;
+  font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-optical-sizing: auto;
+}
+
+body {
+  background: linear-gradient(180deg, #ff5757, #f652ff, #fff);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  text-shadow: 2px 2px 2px #f652ff, 2px 2px 2px #fff, 2px 2px 2px #ff5757;
+}
+
+.name {
+  font-size: 40px;
+  color: #ff5757;
+  text-shadow: 2px 2px 2px #f652ff, 2px 2px 2px #fff, 2px 2px 2px #ff5757;
+}
+
+.btn_here {
+  margin-top: 20px;
+  border: 2px solid #fff;
+  background: transparent;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  color: #fff;
+}
+
+.msg {
+  margin-top: 20px;
+  font-size: 3rem;
+  color: #000;
+}
