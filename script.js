@@ -6,7 +6,7 @@ const messages = [
   "Mantente bien hidratada",
   "Trata de tomarte un descanso",
   "Recuerda sonreír, !Es Gratis¡",
-  "Haz algo que te haga feliz hoy"
+  "Haz algo que te haga feliz hoy ☺️"
 ];
 
 function getRandomMessage() {
